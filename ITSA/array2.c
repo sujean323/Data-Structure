@@ -1,3 +1,4 @@
+//印出反轉後的內容
 #include<stdio.h>
 
 int main(){
