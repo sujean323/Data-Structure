@@ -1,3 +1,4 @@
+//找零錢問題
 #include<stdio.h>
 
 int main(){
