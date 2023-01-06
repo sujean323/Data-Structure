@@ -1,3 +1,4 @@
+//計算陣列中所有元素的立方和
 #include<stdio.h>
 #include<math.h>
 
