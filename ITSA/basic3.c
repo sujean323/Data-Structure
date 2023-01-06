@@ -1,3 +1,4 @@
+//判斷座標是否在圓形的範圍內
 #include<stdio.h>
 #include<math.h>
 
