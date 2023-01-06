@@ -1,3 +1,4 @@
+//判斷是否為迴文
 #include<stdio.h>
 
 int main(){
@@ -6,7 +7,7 @@ int main(){
         int a, b=0, r;
         a = n;
         while(n){
-            r = n%10;
+            r = n%10; 
             b = b*10+r;
             n /= 10;
         }
